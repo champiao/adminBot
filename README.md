@@ -1,2 +1,2 @@
 # domainBot
-Bot telegram to inform expire date of domains on ENV
+Telegram Bot to inform expire date of domains on ENV
