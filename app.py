@@ -10,7 +10,7 @@ from time import sleep
 TELEGRAM_BOT_TOKEN = os.getenv('ID')
 TELEGRAM_CHAT_ID = os.getenv('CHAT')
 
-domains = domains = os.getenv('DOMAINS').split(',')
+domains = os.getenv('DOMAINS').split(',')
 
 bot = Bot(token=TELEGRAM_BOT_TOKEN)
 
